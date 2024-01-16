@@ -5,6 +5,11 @@
 .col{
     margin: 1rem;
 }
+
+.myCard {
+    margin-bottom: 1rem;
+}
+
 img{
     border-radius: 10px;
     
