@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    margin: 1rem;
+}
+img{
+    border-radius: 10px;
+    
+}
+
+img:hover{
+    transition: 0.2s;
+}
