@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    margin: 1rem;
+}
+
+.myCard {
+    margin-bottom: 1rem;
+}
+
+img{
+    border-radius: 10px;
+    
+}
+.card{
+    margin-bottom: 1rem;
+}
+img:hover{
+    transition: 0.2s;
+}
