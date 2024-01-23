@@ -14,9 +14,11 @@ img{
     border-radius: 10px;
     
 }
-.card{
-    margin-bottom: 1rem;
-}
+
 img:hover{
     transition: 0.2s;
+}
+
+.mid {
+    height: 594.3px !important;
 }
