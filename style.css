@@ -21,6 +21,14 @@ img:hover {
     transition: 0.2s;
 }
 
-.mid img{
-    height: 594px ;
+.mid img {
+    height: 591.5px;
+}
+
+.myCardText {
+    margin-top: 200px;
+}
+
+.mid-card-text {
+    margin-top: 505px;
 }
