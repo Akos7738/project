@@ -18,7 +18,12 @@ img{
 img:hover{
     transition: 0.2s;
 }
+<<<<<<< HEAD
 
 .mid {
     height: 594.3px !important;
+=======
+.mid{
+    height: 609px !important;
+>>>>>>> 7efdae7f9fc6d9adcb16a3e09d981fbe7ea638cb
 }
